@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+}
+.first_div_child{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 700px;
+    padding: 50px;
+}
+.first_div_child *{
+    color: black;
+}
+.container_header{
+    display: flex;
+    gap: 130px;
+    margin: 10px;
+}
+.modified_h2{
+    padding-left: 10px;
+}
+.sexe_h2{
+    padding-left: -50px;
+}
+.age_h2{
+    margin-left: 60px;
+    position: relative;
+    left: -70px;
+}

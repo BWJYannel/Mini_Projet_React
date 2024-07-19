@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": "e847",
+      "first_name": "BELEMSIGRI",
+      "last_name": "Yannel",
+      "age": "20",
+      "sexe": "Masculin"
+    },
+    {
+      "id": "5543",
+      "first_name": "ZAMPALIGRE",
+      "last_name": "Rodrigue",
+      "age": "21",
+      "sexe": "Masculin"
+    },
+    {
+      "id": "fd57",
+      "first_name": "yanogo",
+      "last_name": "landry",
+      "age": "19",
+      "sexe": "Masculin"
+    }
+  ]
+}
